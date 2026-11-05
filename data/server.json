@@ -46,22 +46,5 @@
       "title": "Listen to staff",
       "description": "Follow moderator instructions and use the support channels for disputes."
     }
-  ],
-  "team": [
-    {
-      "role": "Server Owner",
-      "name": "ADD NAME",
-      "description": "Overall server management and direction."
-    },
-    {
-      "role": "Administrators",
-      "name": "ADD TEAM / NAMES",
-      "description": "Server administration, configuration and player support."
-    },
-    {
-      "role": "Moderators",
-      "name": "ADD TEAM / NAMES",
-      "description": "Community support, rule enforcement and in-game assistance."
-    }
   ]
 }
