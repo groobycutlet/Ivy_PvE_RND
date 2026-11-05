@@ -1,0 +1,21 @@
+{
+  "quickLinksTitle": "QUICK LINKS",
+  "quickLinks": [
+    {
+      "label": "Server information",
+      "url": "server.html"
+    },
+    {
+      "label": "Custom equipment",
+      "url": "items.html"
+    },
+    {
+      "label": "Vehicle showcase",
+      "url": "vehicles.html"
+    }
+  ],
+  "adminNote": {
+    "title": "ADMIN NOTE",
+    "content": "Server is in its 'Build' stage so please be aware that many things are subject to change over time and although 'wipes' will be avoided if possible but may sometimes be unavoidable and may happen, until the server is ready for the official opening."
+  }
+}

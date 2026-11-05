@@ -1,0 +1,26 @@
+[
+  {
+    "date": "24/10/2026",
+    "category": "SERVER NEWS",
+    "title": "Welcome to the Badlands",
+    "subtitle": "A new chapter of Ivy PvE begins here.",
+    "content": "Server 'Beta' is officially open for playtesting. Welcome everybody, we hope you enjoy your play time on our server",
+    "author": "Ivy Staff"
+  },
+  {
+    "date": "ADD DATE",
+    "category": "UPDATE LOG",
+    "title": "Latest Server Changes",
+    "subtitle": "",
+    "content": "Summarise recent mod updates, balance changes, new loot, custom items or quality-of-life improvements here. Include version numbers where useful.",
+    "author": "Ivy Staff"
+  },
+  {
+    "date": "ADD DATE",
+    "category": "COMMUNITY",
+    "title": "Events & Expeditions",
+    "subtitle": "",
+    "content": "Tell players about upcoming events, community challenges, convoy runs, scavenger hunts or seasonal activities.",
+    "author": "Ivy Staff"
+  }
+]
